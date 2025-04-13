@@ -7,7 +7,7 @@ tags:
   - PROXMOX
 ---
 
-# 5. Connexion des nœuds du cluster Proxmox au réseau WiFi.
+#  Connexion des nœuds du cluster Proxmox au réseau WiFi.
 
 https://debian-facile.org/doc:reseau:wpasupplicant
 
